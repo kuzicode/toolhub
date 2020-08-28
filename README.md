@@ -61,13 +61,7 @@ Tips: 该项仅Share于技术学习&外贸工作，切勿违反祖国法律。
 
 ## 图片处理/文档转换
 
-- AI在线无损放大图片: https://bigjpg.com/zh
-
-- 在线缩小图片: https://dd.sb/DpdbE
-
-- 在线合并PDF: https://dd.sb/ZL5yU
-
-- 在线图表制作: https://dd.sb/69r6e
+- [editing.md](editing.md)
 
 ## 接码平台
 
