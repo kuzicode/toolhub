@@ -61,7 +61,7 @@ Tips: 该项仅Share于技术学习&外贸工作，切勿违反祖国法律。
 
 ## 图片处理/文档转换
 
-- [editing.md](editing.md)
+[editing.md](editing.md)
 
 ## 接码平台
 
