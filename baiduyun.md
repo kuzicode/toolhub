@@ -1,11 +1,8 @@
 
-### Method1: 不限速下载
-粘贴分享地址即可HTTP下载：https://pan.naifei.cc/new/
 
 
 
-
-### Method2: VIP帐号分享
+### VIP帐号分享
 
 账户(微搏账号)|密码
 |:--|:--
