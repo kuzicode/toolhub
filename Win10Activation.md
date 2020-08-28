@@ -1,0 +1,33 @@
+
+
+### win10下载
+https://msdn.itellyou.cn/
+
+
+
+### win10专业版密钥 
+
+```
+J4B2W-CJHH7-YF9BR-2HRCG-GPGH3
+
+8NK27-V669D-3D3T3-GQRB4-MWP7D
+
+4JQK2-QTF46-3FH6G-2M96M-YXC89
+
+FKNJG-WCXD4-PXBWR-DTDKJ-7FQ3Q
+```
+
+### win10企业版激活码
+
+```
+VGCB3-C7N74-6PR9Q-3VTRD-8K8WR
+
+WNF9Y-4P6Y8-GKTDH-FPFH6-722JR
+
+H8PDJ-H4NKW-3GKH7-YHKJ7-4C2JR
+```
+
+
+### win10激活软件
+
+https://github.com/TGSAN/CMWTAT_Digital_Edition/releases
