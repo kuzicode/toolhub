@@ -5,7 +5,7 @@ Kumataの效率工具集，持续入库..
 
 ## 科学上网系列
 
-(该项仅Share学习&外贸的朋友，切勿违反祖国法律)
+(该项仅Share于技术学习&外贸的伙伴，切勿违反祖国法律)
 
 - 免费SS/SSR/v2ray翻墙节点: [freeNodes.md](freeNodes.md)
 
