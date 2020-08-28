@@ -8,14 +8,19 @@
 - 目标网站被墙了吗？: https://dd.sb/yuV6u
 
 
+
+
 # 网络测试工具
 
 - 网络测速: https://www.speedtest.net
 
 
+
 # 服务器工具
 
 - 端口扫描: https://dd.sb/LY1U2
+
+- 剖析你的IP情况：http://ping.pe
 
 
 # URL工具
