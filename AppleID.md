@@ -1,4 +1,4 @@
-# 锅外ID分享
+# 外区ID
 我们下载一些外区的ios应用时需要外区的ios AppleID账号，以下账号尚且解决燃眉之急。  
 
 
@@ -7,14 +7,18 @@ Tips:
 - 勿登录iCloud！勿登录iCloud！勿登录iCloud！
 
 
+普通账号|密码
+:--|:--
+id1@appledi.com|Appledi1234
+id2@appledi.com|Appledi123
+id3@appledi.com|Appledi321
+
+
 已购shadowrocket账号|密码
 :--|:--
 rz3v336w@icloud.com | Aa112211 
 gzhzdffxmqid@outlook.com | Zdf112277
 iOSToolset14@protonmail.com | AAjj1414
-id1@appledi.com|Appledi1234
-id2@appledi.com|Appledi123
-id3@appledi.com|Appledi321
 
 
 已购quantumult账号账号|密码
