@@ -16,7 +16,7 @@ id3@appledi.com|Appledi321
 
 已购shadowrocket账号|密码
 :--|:--
-rz3v336w@icloud.com | Aa112211 
+ssrtool@protonmail.com | if8uFPMzrvFFWTR
 gzhzdffxmqid@outlook.com | Zdf112277
 iOSToolset14@protonmail.com | AAjj1414
 
