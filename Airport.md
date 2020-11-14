@@ -22,7 +22,7 @@ Tips: 以下机场包含部分注册优惠。
 
 机场名称|节点类型|10元级月套餐|25元级月套餐||节点数量|链接
 :--|:--|:--|:--|:--|:--|:--
-奇异之旅|SSR|￥10,1TB|￥20,2TB|30+|https://dd.sb/1azKY
+奇异之旅|SSR|￥10,1TB|￥20,2TB|30+|https://www.ustravel.cloud/aff.php?aff=6459
 云梯|V2RAY|￥10,200GB,中转|￥20,500GB,中转|5+|https://19se.cc/auth/register?code=kXEg
 
 
@@ -30,11 +30,10 @@ Tips: 以下机场包含部分注册优惠。
 
 机场名称|节点类型|10元级月套餐|25元级月套餐|50元级月套餐|节点数|链接|优惠码
 :--|:--|:--|:--|:--|:--|:--|:--
-次元链接|SSR/V2RAY|￥19,128GB,IPLC|￥29,228GB,IPLC|￥49,430GB,IPLC|60+|https://dd.sb/gH7aR|cylink-limbopro
-ByWare|V2RAY||￥25,100GB,IPLC|￥45,180GB,IPLC|10+|https://dd.sb/D4Yfm|wpbox
+次元链接|SSR/V2RAY|￥19,128GB,IPLC|￥29,228GB,IPLC|￥49,430GB,IPLC|60+|https://cylink.wtf/auth/register?code=E3uE
+ByWare|V2RAY||￥25,100GB,IPLC|￥45,180GB,IPLC|10+|https://bywave.io/aff.php?aff=3866|wpbox
 N3RO|SSR||￥21,180GB,BGP|￥33,400GB,IPLC|44+|https://n3ro.best/user/shop|n3ro-limbopro
 卡车云|SSR|￥16,96GB,IPLC|￥30,210GB,IPLC||30+|https://kcjisu.icu/user/shop
-starscloud|SSR|￥10,100GB,BGP|￥25,500GB,BGP|￥50,1TB,IPLC|18+|https://dd.sb/6kRnQ
 m78cloud|SSR/V2RAY|￥17,400GB,IPLC|￥23,800GB,IPLC||19+|https://dd.sb/RJp8t
 海豚湾|V2RAY||￥29,250GB,BGP|￥49,500GB,IPLC||https://dd.sb/Wvy06
 觅云|SSR/V2RAY||￥20,150GB,BGP|￥40,300GB,BGP|52+|https://dd.sb/fhpvW
