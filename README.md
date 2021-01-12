@@ -21,43 +21,28 @@ Tips: 该项仅Share于技术学习&外贸工作，切勿违反祖国法律。
 
 #### 云盘工具
 
-[baiduyun.md](baiduyun.md)
-
-- 百度云VIP账号分享
+- 百度云VIP账号分享: [baiduyun.md](baiduyun.md)
 
 
 #### 音视频工具
 
-[videos.md](videos.md)
-
-- Youtube视频下载
-
-- Twitter视频下载
-
-- 解锁网易云变灰的歌
+- Youtube/Twitter视频下载: [videos.md](videos.md)
 
 
 #### Win10激活
 
-[Win10Activation.md](Win10Activation.md)
-
-- 专业版/企业版激活码
-
-- 激活软件
+- 激活码/激活软件: [Win10Activation.md](Win10Activation.md)
 
 
 #### 网络网站测试
 
-[nettool.md](nettool.md)
-
-- 网站/网络/服务器工具
+- 网站/网络/服务器工具: [nettool.md](nettool.md)
 
 
 #### 设计素材系列
 
-[material.md](material.md)
+- 免费图片/视频/ICON/字体素材: [material.md](material.md)
 
-- 免费图片/视频/ICON/字体素材
 
 #### 图片处理/文档转换
 
@@ -65,9 +50,7 @@ Tips: 该项仅Share于技术学习&外贸工作，切勿违反祖国法律。
 
 #### 接码平台
 
-[sms.md](sms.md)
-
-- 国内外免费平台
+- 国内外免费平台: [sms.md](sms.md)
 
 
 
