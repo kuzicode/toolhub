@@ -7,7 +7,6 @@ https://ssrshare.github.io/sms/
 
 # 国内免费接码平台
 
-- 在线接收短信: https://www.becmd.com
 - 在线接收短信: http://www.114sim.com
 - z-sms: http://z-sms.com
 - 短信验证码接收平台-随用随弃: https://www.suiyongsuiqi.com
