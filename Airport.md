@@ -18,29 +18,25 @@ SS/SSR/V2RAY等收费节点提供商的别称。
 - 线路类型：直连 < 中转(单线中转) < BGP(隧道中转) < IPLC/IEPL
 
 
-Tips: 以下机场包含部分注册优惠。
-
 #### 入门级鸡场
-
-- 价格较为优
-- 速度及稳定性欠佳
 
 | 机场名称 | 节点类型 | 10元级月套餐    | 25元级月套餐    | 节点数量 | 链接                                        |
 | -------- | -------- | --------------- | --------------- | -------- | ------------------------------------------- |
 | 云梯     | V2RAY    | ￥10,200GB,中转 | ￥20,500GB,中转 | 5+       | https://se13.xyz/auth/register?code=kXEg    |
 
 
-#### 老牌/高级鸡场
+#### 老牌/优质鸡场
 
-稳定才是最好的体验!
 
 | 机场名称 | 节点类型  | 25元级月套餐    | 50元级月套餐    | 节点数量 | 链接                                       | 优惠码        |
 | -------- | --------- | --------------- | --------------- | ------ | ------------------------------------------ | ------------- |
 | ByWare   | V2RAY     | ￥25,100GB,IPLC | ￥45,180GB,IPLC | 10+    | https://bywave.io/aff.php?aff=3866         | 2021(30%off!) | 
-| 次元链接 | SSR/V2RAY | ￥29,228GB,IPLC | ￥49,430GB,IPLC | 60+    | https://cylink.wtf/auth/register?code=E3uE |               |
 | N3RO     | SSR       | ￥21,180GB,BGP  | ￥33,400GB,IPLC | 44+    | https://n3ro.lol/auth/register?code=lAxt  | n3ro-limbopro |
-| 卡车云   | SSR       | ￥30,210GB,IPLC |                 | 30+    | https://kcjisu.icu/user/shop               |               |
-| m78cloud | SSR/V2RAY | ￥23,800GB,IPLC |                 | 19+    | https://dd.sb/RJp8t                        |               |
-| 觅云     | SSR/V2RAY | ￥20,150GB,BGP  | ￥40,300GB,BGP  | 52+    | https://dd.sb/fhpvW                        |               |
-| 海豚湾   | V2RAY     | ￥29,250GB,BGP  | ￥49,500GB,IPLC |        | https://dd.sb/Wvy06                        |               |
-| 无界     | SSR/V2RAY | ￥20,100GB,IPLC | ￥40,250GB,IPLC |        | https://dd.sb/0AtEE                        |               |
+| 次元链接 | SSR/V2RAY | ￥29,228GB,IPLC | ￥49,430GB,IPLC | 60+    | https://cylink.wtf/auth/register?code=E3uE |               |
+
+       
+
+Tips:
+- 入门级产品一般为新机场，价格较为实惠，但速度及稳定性欠佳
+- 老牌机场胜在速度和稳定性，如有长期使用需求需选择该项
+- 部分链接包含注册优惠
