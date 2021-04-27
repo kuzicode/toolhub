@@ -13,6 +13,8 @@
 ### 免费节点获取网站
 不限于SS/SSR/V2RAY节点，且用且珍惜。
 
+- https://view.freev2ray.org/
+
 - https://usky.ml/tool/free_ssr
 
 - https://lncn.org
