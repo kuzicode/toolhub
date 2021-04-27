@@ -20,13 +20,13 @@ SS/SSR/V2RAY等收费节点提供商的别称。
 
 #### 目前自用的优质机场
 
-- 以下为一年内踩坑10+个的机场之后筛选出来的，稳定性和速度占优的机场
+- 以下为近一年内踩坑10+个的机场之后筛选出来的，稳定性和速度占优的机场
 - 速度测试记录: Youtube 8K Video 测试速度对比 ByWare > N3 = 次元
 
-| 机场名称 | 节点类型  | 25元级月套餐    | 50元级月套餐    | 节点数量 | 链接                                       | 优惠码        |
-| -------- | --------- | --------------- | --------------- | ------ | ------------------------------------------ | ------------- |
-| ByWare   | V2RAY     | ￥25,100GB,IPLC | ￥45,180GB,IPLC | 20+    | https://bywave.io/aff.php?aff=3866         | | 
-| N3RO     | SSR       | ￥21,180GB,BGP  | ￥33,400GB,IPLC | 44+    | https://n3ro.lol/auth/register?code=lAxt  | n3ro-limbopro |
-| 次元链接 | SSR/V2RAY | ￥29,228GB,IPLC | ￥49,430GB,IPLC | 60+    | https://cylink.wtf/auth/register?code=E3uE |               |
+| 机场名称 | 节点类型  | 25元级月套餐    | 50元级月套餐    | 节点数量 | 链接                                       |
+| -------- | --------- | --------------- | --------------- | ------ | ------------------------------------------ |
+| ByWare   | V2RAY     | ￥25,100GB,IPLC | ￥45,180GB,IPLC | 20+    | https://bywave.io/aff.php?aff=3866         |
+| N3RO     | SSR       | ￥21,180GB,BGP  | ￥33,400GB,IPLC | 44+    | https://n3ro.lol/auth/register?code=lAxt  |
+| 次元链接 | SSR/V2RAY | ￥29,228GB,IPLC | ￥49,430GB,IPLC | 60+    | https://cylink.wtf/auth/register?code=E3uE |
 
        
