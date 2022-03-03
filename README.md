@@ -52,5 +52,7 @@ Tips: 该项仅Share于技术学习&外贸工作，切勿违反祖国法律。
 
 - 国内外免费平台: [sms.md](sms.md)
 
+#### 邮箱工具
 
+- 批量申请邮箱: https://tempmail.uk/mailbox
 
