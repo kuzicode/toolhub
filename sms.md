@@ -5,20 +5,28 @@ https://ssrshare.github.io/sms/
 
 
 
-# 国内免费接码平台
+# 收费接码平台
 
-- 在线接收短信: http://www.114sim.com
-- z-sms: http://z-sms.com
-- 短信验证码接收平台-随用随弃: https://www.suiyongsuiqi.com
-- 蛋蛋短信: https://www.sms00.com
-- 免费接码(MianFeiJieMa.com)提供中国、美国、英国等各国免费手机号码短信接收服务: https://mianfeijiema.com
-- 在线接收短信: https://www.visitorsms.com/cn
-- 云短信: https://yunduanxin.net
+- 火狐狸平台：https://firefox.fun/
+- 旗帜平台：https://www.gxhzi.com/
+- 路痴背包云：https://cloud.luchibb.com/index1
+- 悟空平台：http://ussms.top/ 1
 
+# 免费接码平台
 
 
-# 国外免费接码平台
-
-- SMS-ONLINE: https://sms-online.co/receive-free-sms
-- receiveasms: https://receiveasms.com
-- Receive SMS Online Free And Receive SMS Online Instantly: https://us-phone-number.com
+无敌云短信：https://clearcode.cn/
+云际云短信：https://yunjisms.xyz/
+云短信：https://www.storytrain.info/
+小鸟接码 - 比较稳定，号码比较少：www.xnsms.com
+KaKa接码 - 号码较少：www.kakasms.com
+随用随弃 - 号码挺多，稳定性请自测：www.suiyongsuiqi.com
+免费接码：mianfeijiema.com
+在线短信接收：www.114sim.com
+在线接收短信验证码：www.zusms.com
+接码号 - 在线接收短信：https://jiemahao.com
+超级云短信： www.bfkdim.com
+云接码：yunjiema.net
+zero接码平台： xinghai.party
+LotHelper： www.lothelper.com
+免费接码平台： www.zsrq.net
