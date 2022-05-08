@@ -6,10 +6,10 @@ https://ssrshare.github.io/sms/
 
 # 收费接码平台
 
+- 5sim: https://5sim.net/
 - 火狐狸平台：https://firefox.fun/
 - 旗帜平台：https://www.gxhzi.com/
 - 路痴背包云：https://cloud.luchibb.com/index1
-- 悟空平台：http://ussms.top/ 1
 
 # 免费接码平台
 
